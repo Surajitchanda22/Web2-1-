@@ -1,0 +1,46 @@
+bbody{
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.navbar{
+	background: #000000;
+	margin: 0%;
+	padding: 2%;
+  position: sticky;
+	border-bottom: 2px solid white;
+}
+#row{
+	display: flex;
+	list-style: none;
+}
+.row{
+	color: white;
+	text-decoration: none;
+  margin: 2%;
+}
+.row a{
+	color: white;
+	text-decoration: none;
+}
+#text1{
+	font-size: 20px;
+	margin-left: 0px;
+}
+#text{
+	font-size: 10px;
+}
+.img{
+	hight: 50%;
+	width: 100%;
+	padding-bottom: 2%;
+	
+}
+.about{
+	text-align: center;
+}
+.footer{
+	hight: 4000px;
+	width: 100%;
+  background-color: #363636;
+  margin-bottom: 0px;
+}
